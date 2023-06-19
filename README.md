@@ -42,6 +42,8 @@ Validation set users:
 [2] Innocenti S. U., Becattini F., Pernici F., Del Bimbo A.: Temporal binary representation for event-based action recognition. 25th International Conference on Pattern Recognition (ICPR), 10426-10432 (2020)
 
 
+## Additional annotation
+Face landmarks and bounding boxes are going to be available soon.
 
 # Citation
 
