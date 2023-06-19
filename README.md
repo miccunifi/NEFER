@@ -3,6 +3,8 @@
 
 We present NEFER, a dataset for Neuromorphic Event-based Facial Expression Recognition. NEFER is composed of paired RGB and event videos representing human faces labeled with the respective emotions and also annotated with face bounding boxes and facial landmarks.
 
+Read the paper: [CVF](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Berlincioni_Neuromorphic_Event-Based_Facial_Expression_Recognition_CVPRW_2023_paper.pdf) | [Arxiv](https://arxiv.org/abs/2304.06351)
+
 ![NEFER sample](NEFER_sample.png)
 
 ## Data and annotations
