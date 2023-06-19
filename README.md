@@ -35,6 +35,7 @@ Validation set users:
 
 
 [1] Ekmann, P.: Universal facial expressions in emotion. Studia Psychologica 15(2), 140 (1973)]
+
 [2] Innocenti S. U., Becattini F., Pernici F., Del Bimbo A.: Temporal binary representation for event-based action recognition. 25th International Conference on Pattern Recognition (ICPR), 10426-10432 (2020)
 
 
