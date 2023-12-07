@@ -9,7 +9,7 @@ Read the paper: [CVF](https://openaccess.thecvf.com/content/CVPR2023W/EventVisio
 
 ## Data and annotations
 
-You can download the data at the following link: [GOOGLE DRIVE LINK](https://drive.google.com/file/d/1KSSUgq4HcWk_npRP8FuXjDYjKUSLVANk/view?usp=sharing)
+You can download the data at the following link: [GOOGLE DRIVE LINK](https://drive.google.com/drive/folders/1OAnM8B88XX_TqJj2XF61w1nA-nWNV4YC?usp=sharing)
 
 This folder contains the NEFER dataset, that accopanies the paper "Neuromorphic Event-based Facial Expression Recognition".
 
