@@ -32,9 +32,10 @@ Validation set users:
 ['03', '07', '17', '19', '27', '28']
 
 ### Dataset structure
-- event_videos: contains a folder with raw event camera videos and a folder with event frames obtained with Temporal Binary Representation [2].
-- rgb_videos: contains rgb video frames.
-- annotations: contains several csv files for train and validation for both rgb and event data. Each file also has a correspondent "subjective" version, with annotations provided by the users.
+- event_raw: a folder with raw event camera videos
+- event_frames: a folder with event frames obtained with Temporal Binary Representation [2].
+- rgb_frames: contains rgb video frames.
+- annotations: contains several csv files for train and validation for both rgb and event data (expected_emotions). Each file also has a correspondent "subjective" version (reported_emotions), with annotations provided by the users.
 
 
 [1] Ekmann, P.: Universal facial expressions in emotion. Studia Psychologica 15(2), 140 (1973)]
